@@ -6,4 +6,4 @@
 ### Clases
 - [clase 1, 19 de agosto](https://colab.research.google.com/drive/1iwnlsxbtS7_NPn3jY2qgDYnlWG4oZUNr?usp=sharing)
 
-Última actualización pública: 19-08-2026 14:51:22 zona horaria UTC-03:00
+Última actualización pública: 20-08-2026 10:13:32 zona horaria UTC-03:00
