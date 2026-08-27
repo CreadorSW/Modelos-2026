@@ -7,5 +7,7 @@
 
 =======
 - [clase 2, 19 de agosto](https://colab.research.google.com/drive/1iwnlsxbtS7_NPn3jY2qgDYnlWG4oZUNr?usp=sharing)
-- [clase 1, 26 de agosto](https://colab.research.google.com/drive/1vJ9erwL-27RK1H0sDUtZrC_gd-R24dZ5?usp=sharing)
+- [clase 3, 26 de agosto](https://colab.research.google.com/drive/1vJ9erwL-27RK1H0sDUtZrC_gd-R24dZ5?usp=sharing)
+=======
+
 Última actualización pública: 27-08-2026 19:26:44 zona horaria UTC-03:00
