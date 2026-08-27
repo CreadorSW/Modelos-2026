@@ -4,6 +4,7 @@
 #### Recordar que en la bitácora encontrarán *TRABAJO AUTÓNOMO*.
 
 ### Clases
-- [clase 1, 19 de agosto](https://colab.research.google.com/drive/1iwnlsxbtS7_NPn3jY2qgDYnlWG4oZUNr?usp=sharing)
 
-Última actualización pública: 20-08-2026 10:44:06 zona horaria UTC-03:00
+=======
+- [clase 2, 19 de agosto](https://colab.research.google.com/drive/1iwnlsxbtS7_NPn3jY2qgDYnlWG4oZUNr?usp=sharing)
+- [clase 1, 26 de agosto](https://colab.research.google.com/drive/1vJ9erwL-27RK1H0sDUtZrC_gd-R24dZ5?usp=sharing)
