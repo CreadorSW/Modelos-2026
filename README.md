@@ -10,4 +10,4 @@
 - [clase 3, 26 de agosto](https://colab.research.google.com/drive/1vJ9erwL-27RK1H0sDUtZrC_gd-R24dZ5?usp=sharing)
 =======
 
-Última actualización pública: 27-08-2026 19:36:21 zona horaria UTC-03:00
+Última actualización pública: 02-09-2026 18:15:43 zona horaria UTC-03:00
